@@ -1,0 +1,13 @@
+# Student Result Management System
+Student Result Management System developed using Microsoft Excel.
+## Features
+- Student result management
+- Subject-wise marks analysis
+- Average calculation
+- Rank calculation
+- Student performance visualization
+## Tools Used
+- Microsoft Excel
+- Pivot Tables
+- Charts
+- Excel Formulas
